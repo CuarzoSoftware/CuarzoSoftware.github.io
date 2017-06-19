@@ -1,0 +1,2 @@
+# cuarzosoftware
+Home of CuarzoOS.
